@@ -20,6 +20,9 @@ class Attribute(Enum):
     magicCarpet = 1
     magicAxes = 1
 
+print("Hello World")
+
+
 
 #  List to hold current characters in the game
 
